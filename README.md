@@ -1,5 +1,5 @@
 # **Vizinet**
-**An interactive network protocol simulator to visualize and mimic TCP, UDP, and HTTP protocols.**
+An interactive network protocol simulator to visualize and mimic TCP, UDP, and HTTP protocols.
 
 ## **Overview**
 **Vizinet** is a web-based network protocol simulator that provides an interactive and visual approach to understanding how network communication works. The application simulates real-world protocols like **TCP**, **UDP**, and **HTTP**, allowing users to observe and interact with packet flow, retransmissions, and different network conditions (such as packet loss and latency). By visualizing these abstract concepts, Vizinet serves as an educational tool for both students and network engineers looking to deepen their understanding of network protocols and their behavior.
